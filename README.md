@@ -5,8 +5,11 @@ Turtlebot and Python Project Repository for
   - Talhaoui Mohamed Amine
   - Millet Simon
 
-# to-do list : 
-  - demarrage robot
-  - commande robot
-  - interface graphique
-  - lecture input turtlebot
+
+Tâches à réaliser : 
+--> Récupérer les coordonnées du robot
+--> Interface homme machine avec TKinter
+--> Représentation graphique des coordonnées à l'aide de matplotlib.animation 
+    -> visualisation 2D vue du dessus
+--> téléopération : commander le robot à distance
+
